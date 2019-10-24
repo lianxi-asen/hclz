@@ -13,6 +13,7 @@
     padding-bottom:50px;
     border-radius:10px;
     transition:1.5s;
+    user-select:none;
 }
 .login:hover{
     box-shadow:-8px 6px 21px #736c6c;
